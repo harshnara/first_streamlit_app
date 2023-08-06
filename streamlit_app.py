@@ -1,2 +1,3 @@
-if __name__ == '__main__':
-  print("Streamlit App!")
+import streamlit
+
+streamlit.title("My First Streamlit Application")
